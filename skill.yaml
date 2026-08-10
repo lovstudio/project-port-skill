@@ -1,5 +1,5 @@
 schema: skill-manifest/v1
-id: sgc-project-port
+id: lov-project-port
 version: 0.1.1
 runtime: skill-runtime/v1
 context:
