@@ -13,11 +13,11 @@ compatibility: >
   reporting uses lsof when available.
 metadata:
   author: contributors
-  version: "0.2.0"
+  version: "0.2.1"
   tags: dev-server ports project-setup
 ---
 
-# Project Port Generator
+# 端口管家 · Port Keeper
 
 为项目生成稳定唯一的端口号（范围 3000-8999），同一项目名永远返回相同端口。
 
