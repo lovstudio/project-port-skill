@@ -1,6 +1,6 @@
 # 端口管家 · Port Keeper
 
-![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.2-CC785C)
 
 Generate a stable project-specific development port in the 3000-8999 range, then help wire it into `.env`, package scripts, Vite, or other dev-server config.
 
@@ -9,7 +9,7 @@ Part of [skill-publisher dev skills](https://example.com/skills/dev-skills) — 
 ## Install
 
 ```bash
-npx skills add project-port -g -y
+npx lovstudio skills add project-port -g -y
 ```
 
 ## Usage
